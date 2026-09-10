@@ -27,17 +27,6 @@ Na parte de inteligência artificial, costumo trabalhar com frameworks como Lang
 
 ---
 
-### Experiência Prática e Projetos
-
-| Área ou Projeto | O que desenvolvi |
-| :--- | :--- |
-| 📞 **Telefonia com IA** | Orquestração de chamadas de voz integradas a agentes de inteligência artificial, com controle de sessão e processamento de eventos em tempo real |
-| ⚡ **Infraestrutura de Webhooks** | Plataforma completa para criação, validação e roteamento de eventos com suporte a concorrência e persistência de dados |
-| 🤖 **Agentes, MCPs e LLMs** | Integração de modelos de linguagem usando LangChain e Agno, criando servidores MCP para automação de tarefas, análise de logs e roteamento de contexto |
-| 🌐 **Aplicações e APIs Web** | APIs RESTful, microsserviços e sistemas web completos com interfaces modernas em React para gestão de dados |
-
----
-
 ### Tecnologias e Ferramentas
 
 <div align="left">
