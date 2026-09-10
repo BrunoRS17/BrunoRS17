@@ -1,6 +1,6 @@
 <h1 align="center">Bruno Ribeiro</h1>
 <p align="center">
-  <b>Software Developer • Backend Engineer • AI Integrations</b>
+  <b>Software Developer • Backend Engineer • Applied AI</b>
 </p>
 
 <p align="center">
