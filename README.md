@@ -1,55 +1,48 @@
-<h1 align="center">Bruno Ribeiro</h1>
-<p align="center">
-  <b>Software Developer • Backend Engineer • Applied AI</b>
-</p>
+# Bruno Ribeiro
 
-<p align="center">
-  <a href="https://linkedin.com/in/bruno-ribeiro" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://bruno-software.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-121212?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:brunosilribeiro04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**Software Developer | Backend & Full Stack | Python • Java • AI**
 
----
+Desenvolvedor de software que gosta de transformar problemas reais em soluções com código. 🚀
 
-### Sobre mim
+Trabalho principalmente com **Python, FastAPI, Java e Spring Boot**, desenvolvendo **APIs REST, aplicações backend, integrações de sistemas e automações**. Também tenho um pouco de experiência com **desenvolvimento frontend utilizando React, Next.js e TypeScript**, construindo interfaces e integrando aplicações web a serviços e APIs.
 
-Sou desenvolvedor de software focado em engenharia backend, arquitetura de APIs e inteligência artificial aplicada ao mercado (Applied AI). Gosto de construir plataformas, microsserviços e automações de fluxo de dados, conectando aplicações a serviços externos e modelos de linguagem através de arquiteturas modernas de eventos e protocolos como MCP (Model Context Protocol).
+Exploro também **Inteligência Artificial, LLMs, agentes de IA e MCP**, conectando modelos de linguagem a aplicações e processos de negócio.
 
-No desenvolvimento geral, algumas vezes acompanho o ciclo das aplicações do início ao fim, desde a modelagem do banco e criação de rotas até o deploy, segurança com autenticação e observabilidade na nuvem.
+Gosto de participar de todo o ciclo de desenvolvimento, da modelagem de dados e arquitetura de software até testes, Docker, cloud e deploy. Sempre aprendendo, construindo e procurando maneiras melhores de resolver problemas.
 
-Na parte de inteligência artificial, costumo trabalhar com frameworks como LangChain e Agno para orquestrar agentes inteligentes, rotear contexto e conectar LLMs a bancos de dados ou ferramentas de infraestrutura, que é o que realmente importa na IA, ações, a AI Native.
+### 🛠️ Tech Stack
 
----
+**Backend & Linguagens**
 
-### Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
-</div>
+**Frontend**
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### Além do código
+**Banco de Dados & Cloud**
 
-Fora do desenvolvimento backend tradicional, dedico parte do meu tempo livre explorando a programação de jogos. Também sou apaixonado por música, estudo teoria musical e pratico violão e guitarra nas horas vagas. Para relaxar, gosto de ler livros de ficção e fantasia, assistir a bons filmes e, é claro, jogar um bom jogo.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+**Outras ferramentas:** SQLAlchemy, Pydantic, Alembic, JUnit, GitHub Actions, LangChain, Agno e MCP.
 
-### Contato
+### ⚡ Além do código
 
-Se quiser trocar uma ideia sobre desenvolvimento backend, arquitetura de APIs, agentes de IA ou qualquer outro assunto, pode me chamar no [LinkedIn](https://linkedin.com/in/bruno-ribeiro) ou me mandar um [E-mail](mailto:brunosilribeiro04@gmail.com).
+Quando não estou desenvolvendo APIs ou explorando alguma tecnologia, provavelmente estou tocando guitarra 🎸, lendo fantasia ou ficção científica 📚 ou explorando algum mundo aberto nos games 🎮.
+
+### 📬 Vamos conversar?
+
+Aberto a oportunidades, projetos interessantes e boas conversas sobre tecnologia!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-ribeiro)
+[![Portfolio](https://img.shields.io/badge/Portfólio-121212?style=flat-square&logo=vercel&logoColor=white)](https://bruno-software.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brunosilribeiro04@gmail.com)
