@@ -73,7 +73,7 @@ Sempre aprendendo, construindo e procurando maneiras melhores de resolver proble
 
 ### ⚡ Além do código
 
-Quando não estou desenvolvendo APIs ou explorando alguma tecnologia, provavelmente estou tocando guitarra 🎸, lendo fantasia ou ficção científica 📚 ou explorando algum mundo aberto nos games 🎮.
+Quando não estou desenvolvendo ou explorando alguma tecnologia, provavelmente estou tocando guitarra 🎸, lendo fantasia ou ficção científica 📚 ou explorando algum mundo aberto nos games 🎮.
 
 ---
 
